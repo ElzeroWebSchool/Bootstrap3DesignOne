@@ -1,4 +1,4 @@
-/* Start About Us */
+/* Start Global */
 
 .breadcrumb-holder {
     background-color:#F5F5F5
@@ -8,6 +8,10 @@
     padding:10px 0;
     margin:0
 }
+
+/* End Global */
+
+/* Start About Us */
 
 .about-us {
     padding:70px 0
@@ -56,4 +60,38 @@
     margin-bottom:30px
 }
 
-/* End ABout US */
+/* End About US */
+
+/* Start FAQ */
+
+.faq {
+    padding: 40px 0
+}
+
+.faq h1 {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: -3px;
+    font-size: 65px
+}
+
+.faq h1 ~ hr {
+    width: 70%
+}
+
+.faq-questions .panel-heading {
+    padding: 20px 15px
+}
+
+.faq-questions .panel-heading a:after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    color: #444
+}
+
+.faq-questions .panel-heading a.collapsed:after {
+    content: "\e080";
+    color: #999
+}
+
+/* End FAQ */
