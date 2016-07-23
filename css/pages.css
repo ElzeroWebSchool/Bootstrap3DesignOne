@@ -1,0 +1,59 @@
+/* Start About Us */
+
+.breadcrumb-holder {
+    background-color:#F5F5F5
+}
+
+.breadcrumb {
+    padding:10px 0;
+    margin:0
+}
+
+.about-us {
+    padding:70px 0
+}
+
+.about-us h1 {
+    font-family:'Raleway', sans-serif;
+    letter-spacing:-3px;
+    font-size:62px
+}
+
+.about-us hr {
+    width:70%
+}
+
+.about-features {
+    padding:0 0 70px
+}
+
+.about-features h3 {
+    font-family:'Raleway', sans-serif;
+    letter-spacing:-1px
+}
+
+.about-features p {
+    margin-bottom:20px
+}
+
+.about-ceo {
+    background-color:#EEE;
+    padding-top:40px
+}
+
+.about-ceo h2 {
+    font-family:'Raleway', sans-serif;
+}
+
+.about-ceo .lead {
+    line-height:1.8
+}
+
+.about-ceo .btn-primary {
+    background-color:#333;
+    border-color:#333;
+    display:inline-block;
+    margin-bottom:30px
+}
+
+/* End ABout US */
