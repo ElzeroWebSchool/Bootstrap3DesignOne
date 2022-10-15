@@ -10,7 +10,7 @@ $(document).ready(function () {
     
     $('.carousel').carousel({
         
-        interval: 6000
+        interval: 6500
         
     });
     
@@ -18,7 +18,7 @@ $(document).ready(function () {
     
     $(".gear-check").click(function () {
         
-        $(".color-option").fadeToggle();
+        $(".color-option").fadeToggle(100);
         
     });
     
